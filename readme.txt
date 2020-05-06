@@ -6,3 +6,5 @@ Git tracks changes of files.
 Fuck you My Boss!
 
 你是弟弟！
+
+你个臭弟弟
